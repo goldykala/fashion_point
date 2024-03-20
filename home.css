@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg_nav{
+    background-color:navy;
+    color:azure;
+
+}
+
+.icon{
+    font-size: 30px;
+    margin-left: 30px;
+    color:azure;
+}
+.cr-img{
+    height:400px;
+    background-size: cover;
+
+}
+
+
+.nav_text{
+    color:#000033;
+
+}
+
+
+.st1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.st2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.crd_men{
+    height: 290px;
+    margin-left: 30px;
+}
+.cr_dgn{
+    width: 20rem; 
+    height:370px;
+}
+.cr_shoes{
+    height: 220px;
+    width:170px; 
+    @media (max-width:767px){
+        height: 400px;
+    width:450px;
+    margin-left:40px;
+        
+    }
+   
+}
+
+.cr_shoes:hover{
+    border: 2px solid aliceblue;
+    
+}
+.cr_all{
+    @media (max-width :600px ) {
+        height:120px;
+        
+        
+    }
+    @media (min-width :601px ) {
+         height: 150px;
+        
+    
+    }
+    @media (min-width :1001px ) {
+        height: 290px;
+   
+   }
+   
+}
+.cr_all:hover{
+    border: 2px solid aliceblue;
+    
+}
+body{
+    background-color:azure;
+}
+.cr_dgn:hover{
+    border: 2px solid aliceblue;
+    
+}
+
+.box-img{
+    @media (max-width:767px){
+        height: 300px;
+    width:280px;
+        
+    }
+   
+}
+
+

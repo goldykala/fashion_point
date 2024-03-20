@@ -1,0 +1,39 @@
+.b{
+    font-size: 22px;
+}
+ .off{
+    color: green;
+    font-size: 22px;
+    margin-left:5px;
+} 
+.gray{
+    color: gray;
+    font-size: 20px;
+}
+
+.card:hover{
+    background-color: aliceblue;
+}
+
+.img:hover{
+    border: 2px solid #f5f7fa;
+
+}
+.s1{
+    margin-top:10px;
+}
+html{
+    scroll-behavior:smooth;
+    }
+
+.card{
+    height:300px;
+    width:0px;
+
+}
+
+.add_cat{
+    margin-top: 80px;
+    color: blue;
+
+}
