@@ -82,7 +82,7 @@
     <div class="row pt-3 bg_nav">
       <div class="col-md-12">
         <p class="text-center text-white mt-3">
-          © Copyright <b class="st1">FASHION POINT</b> All Rights Reserved </p>
+          © Copyright <b class="st1">GOLDY KALA(BALRAM)</b> All Rights Reserved </p>
       </div>
 
     </div>
